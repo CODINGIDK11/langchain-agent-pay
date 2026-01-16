@@ -352,11 +352,11 @@ pip install -e ".[dev]"
 pytest
 ```
 
-## 📄 License
+## License
 
 MIT License - see [LICENSE](LICENSE)
 
-## 🆘 Support
+## Support
 
 - **Documentation**: [docs.zendfi.tech](https://docs.zendfi.tech)
 - **Discord**: [discord.gg/zendfi](https://discord.gg/zendfi)
