@@ -14,10 +14,10 @@ LangChain ZendFi provides production-ready tools for AI agents to:
 
 ## What's New in v0.2.0
 
-- **🔐 Device-Bound Session Keys**: Ed25519 keypairs with delegation verification
-- **🔒 Lit Protocol Encryption**: End-to-end encryption of keypair secrets
-- **🤖 Autonomous Agent Manager**: Stateful session management with auto-refresh
-- **⚡ Production Lit Service**: Deployed at `lit-service.zendfi.tech`
+- **Device-Bound Session Keys**: Ed25519 keypairs with delegation verification
+- **Lit Protocol Encryption**: End-to-end encryption of keypair secrets
+- **Autonomous Agent Manager**: Stateful session management with auto-refresh
+- **Production Lit Service**: Deployed at `lit-service.zendfi.tech`
 
 ### Device-Bound Session Keys (Advanced)
 
